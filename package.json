@@ -2,7 +2,10 @@
   "name": "test-format",
   "version": "0.1.0",
   "description": "Format minimal tests",
-  "keywords": [],
+  "keywords": [
+		"format",
+		"tests"
+	],
   "main": "index.js",
   "license": "MIT",
   "author": "Brandon Semilla (https://github.com/semibran)",
