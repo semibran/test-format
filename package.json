@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "description": "Format minimal tests",
   "keywords": [
-		"format",
-		"tests"
-	],
+    "format",
+    "tests"
+  ],
   "main": "index.js",
   "license": "MIT",
   "author": "Brandon Semilla (https://github.com/semibran)",
