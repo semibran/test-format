@@ -1,6 +1,6 @@
 module.exports = format
 
-const equal = require('equal')
+const equal = require('equivalence')
 const symbols = {
 	success: String.fromCharCode(0x2714),
 	failure: String.fromCharCode(0x2716)

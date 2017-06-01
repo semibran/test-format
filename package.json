@@ -1,6 +1,6 @@
 {
   "name": "test-format",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Format minimal tests",
   "keywords": [
     "format",
@@ -14,6 +14,6 @@
     "url": "https://github.com/semibran/test-format.git"
   },
   "dependencies": {
-    "equal": "github:semibran/equal#v0.1.0"
+    "equivalence": "^0.1.0"
   }
 }
